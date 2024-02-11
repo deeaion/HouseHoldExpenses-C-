@@ -1,0 +1,10 @@
+A1, 1/29/2024 12:01:56 AM, Utilities
+A2, 2/29/2024 12:01:56 AM, Groceries
+A3, 3/29/2024 12:01:56 AM, Fashion
+A4, 4/29/2024 12:01:56 AM, Entertainment
+A5, 5/29/2024 12:01:56 AM, 0
+A6, 6/29/2024 12:01:56 AM, Utilities
+A7, 7/29/2024 12:01:56 AM, Groceries
+A8, 8/29/2024 12:01:56 AM, Fashion
+A9, 9/29/2024 12:01:56 AM, Entertainment
+A10, 10/29/2024 12:01:56 AM, 0

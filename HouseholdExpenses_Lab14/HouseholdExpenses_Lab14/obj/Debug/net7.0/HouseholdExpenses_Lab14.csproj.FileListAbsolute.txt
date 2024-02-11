@@ -1,0 +1,15 @@
+C:\Users\Deea\Desktop\Uni\Second year\Semester 1\Advanced programing problems\HouseholdExpenses_Lab14\HouseholdExpenses_Lab14\bin\Debug\net7.0\HouseholdExpenses_Lab14.exe
+C:\Users\Deea\Desktop\Uni\Second year\Semester 1\Advanced programing problems\HouseholdExpenses_Lab14\HouseholdExpenses_Lab14\bin\Debug\net7.0\HouseholdExpenses_Lab14.deps.json
+C:\Users\Deea\Desktop\Uni\Second year\Semester 1\Advanced programing problems\HouseholdExpenses_Lab14\HouseholdExpenses_Lab14\bin\Debug\net7.0\HouseholdExpenses_Lab14.runtimeconfig.json
+C:\Users\Deea\Desktop\Uni\Second year\Semester 1\Advanced programing problems\HouseholdExpenses_Lab14\HouseholdExpenses_Lab14\bin\Debug\net7.0\HouseholdExpenses_Lab14.dll
+C:\Users\Deea\Desktop\Uni\Second year\Semester 1\Advanced programing problems\HouseholdExpenses_Lab14\HouseholdExpenses_Lab14\bin\Debug\net7.0\HouseholdExpenses_Lab14.pdb
+C:\Users\Deea\Desktop\Uni\Second year\Semester 1\Advanced programing problems\HouseholdExpenses_Lab14\HouseholdExpenses_Lab14\obj\Debug\net7.0\HouseholdExpenses_Lab14.csproj.AssemblyReference.cache
+C:\Users\Deea\Desktop\Uni\Second year\Semester 1\Advanced programing problems\HouseholdExpenses_Lab14\HouseholdExpenses_Lab14\obj\Debug\net7.0\HouseholdExpenses_Lab14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deea\Desktop\Uni\Second year\Semester 1\Advanced programing problems\HouseholdExpenses_Lab14\HouseholdExpenses_Lab14\obj\Debug\net7.0\HouseholdExpenses_Lab14.AssemblyInfoInputs.cache
+C:\Users\Deea\Desktop\Uni\Second year\Semester 1\Advanced programing problems\HouseholdExpenses_Lab14\HouseholdExpenses_Lab14\obj\Debug\net7.0\HouseholdExpenses_Lab14.AssemblyInfo.cs
+C:\Users\Deea\Desktop\Uni\Second year\Semester 1\Advanced programing problems\HouseholdExpenses_Lab14\HouseholdExpenses_Lab14\obj\Debug\net7.0\HouseholdExpenses_Lab14.csproj.CoreCompileInputs.cache
+C:\Users\Deea\Desktop\Uni\Second year\Semester 1\Advanced programing problems\HouseholdExpenses_Lab14\HouseholdExpenses_Lab14\obj\Debug\net7.0\HouseholdExpenses_Lab14.dll
+C:\Users\Deea\Desktop\Uni\Second year\Semester 1\Advanced programing problems\HouseholdExpenses_Lab14\HouseholdExpenses_Lab14\obj\Debug\net7.0\refint\HouseholdExpenses_Lab14.dll
+C:\Users\Deea\Desktop\Uni\Second year\Semester 1\Advanced programing problems\HouseholdExpenses_Lab14\HouseholdExpenses_Lab14\obj\Debug\net7.0\HouseholdExpenses_Lab14.pdb
+C:\Users\Deea\Desktop\Uni\Second year\Semester 1\Advanced programing problems\HouseholdExpenses_Lab14\HouseholdExpenses_Lab14\obj\Debug\net7.0\HouseholdExpenses_Lab14.genruntimeconfig.cache
+C:\Users\Deea\Desktop\Uni\Second year\Semester 1\Advanced programing problems\HouseholdExpenses_Lab14\HouseholdExpenses_Lab14\obj\Debug\net7.0\ref\HouseholdExpenses_Lab14.dll

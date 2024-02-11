@@ -1,0 +1,10 @@
+1, Produs1, 2, 1.5, A1
+2, Produs2, 4, 3, A2
+3, Produs3, 6, 4.5, A3
+4, Produs4, 8, 6, A4
+5, Produs5, 10, 7.5, A5
+6, Produs6, 12, 9, A6
+7, Produs7, 14, 10.5, A7
+8, Produs8, 16, 12, A8
+9, Produs9, 18, 13.5, A9
+10, Produs10, 20, 15, A10
